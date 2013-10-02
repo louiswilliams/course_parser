@@ -1,1 +1,4576 @@
-[{"meetings": [{"start_time": "3:05 pm", "location": "Howey (Physics) L1", "end_time": "3:55 pm", "days": ["T"]}], "college": "CS", "id": "1100"}, {"meetings": [{"start_time": "3:05 pm", "location": "Van Leer C241", "end_time": "3:55 pm", "days": ["T"]}], "college": "CS", "id": "1100"}, {"meetings": [{"start_time": "3:05 pm", "location": "Coll of Computing 16", "end_time": "3:55 pm", "days": ["R"]}], "college": "CS", "id": "1100"}, {"meetings": [{"start_time": "3:05 pm", "location": "Howey (Physics) L5", "end_time": "3:55 pm", "days": ["R"]}], "college": "CS", "id": "1100"}, {"meetings": [{"start_time": "12:05 pm", "location": "Klaus 1443", "end_time": "1:25 pm", "days": ["T"]}], "college": "CS", "id": "1171"}, {"meetings": [{"start_time": "9:05 am", "location": "Howey (Physics) L2", "end_time": "9:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C240", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "9:05 am", "location": "Howey (Physics) L2", "end_time": "9:55 am", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C240", "end_time": "7:25 pm", "days": ["W"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "9:05 am", "location": "Howey (Physics) L2", "end_time": "9:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C240", "end_time": "5:55 pm", "days": ["R"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "9:05 am", "location": "Howey (Physics) L2", "end_time": "9:55 am", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C240", "end_time": "7:25 pm", "days": ["R"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "9:05 am", "location": "Howey (Physics) L2", "end_time": "9:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C241", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "9:05 am", "location": "Howey (Physics) L2", "end_time": "9:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C241", "end_time": "5:55 pm", "days": ["R"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "9:05 am", "location": "Howey (Physics) L2", "end_time": "9:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C340", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "10:05 am", "location": "Howey (Physics) L4", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C240", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "10:05 am", "location": "Howey (Physics) L4", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C240", "end_time": "7:25 pm", "days": ["W"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "10:05 am", "location": "Howey (Physics) L4", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C240", "end_time": "5:55 pm", "days": ["R"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "10:05 am", "location": "Howey (Physics) L4", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C240", "end_time": "7:25 pm", "days": ["R"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "10:05 am", "location": "Howey (Physics) L4", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C241", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "10:05 am", "location": "Howey (Physics) L4", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C241", "end_time": "5:55 pm", "days": ["R"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "10:05 am", "location": "Howey (Physics) L4", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C340", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "9:05 am", "location": "Howey (Physics) L2", "end_time": "9:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C240", "end_time": "5:55 pm", "days": ["R"]}], "college": "CS", "id": "1301"}, {"meetings": [{"start_time": "10:05 am", "location": "Klaus 1443", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "3:05 pm", "location": "Van Leer C241", "end_time": "4:25 pm", "days": ["R"]}], "college": "CS", "id": "1315"}, {"meetings": [{"start_time": "10:05 am", "location": "Klaus 1443", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C341", "end_time": "5:55 pm", "days": ["R"]}], "college": "CS", "id": "1315"}, {"meetings": [{"start_time": "10:05 am", "location": "Klaus 1443", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C341", "end_time": "7:25 pm", "days": ["R"]}], "college": "CS", "id": "1315"}, {"meetings": [{"start_time": "2:05 pm", "location": "Howey (Physics) L2", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "3:05 pm", "location": "Love (MRDC II) 184", "end_time": "4:25 pm", "days": ["R"]}], "college": "CS", "id": "1315"}, {"meetings": [{"start_time": "2:05 pm", "location": "Howey (Physics) L2", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C340", "end_time": "5:55 pm", "days": ["R"]}], "college": "CS", "id": "1315"}, {"meetings": [{"start_time": "2:05 pm", "location": "Howey (Physics) L2", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C241", "end_time": "7:25 pm", "days": ["R"]}], "college": "CS", "id": "1315"}, {"meetings": [{"start_time": "10:05 am", "location": "Klaus 1443", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C341", "end_time": "7:25 pm", "days": ["R"]}], "college": "CS", "id": "1315"}, {"meetings": [{"start_time": "10:05 am", "location": "Coll of Computing 16", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Klaus 2447", "end_time": "5:55 pm", "days": ["T"]}], "college": "CS", "id": "1331"}, {"meetings": [{"start_time": "10:05 am", "location": "Coll of Computing 16", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C241", "end_time": "7:25 pm", "days": ["T"]}], "college": "CS", "id": "1331"}, {"meetings": [{"start_time": "10:05 am", "location": "Coll of Computing 16", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C241", "end_time": "5:55 pm", "days": ["T"]}], "college": "CS", "id": "1331"}, {"meetings": [{"start_time": "10:05 am", "location": "Coll of Computing 16", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C340", "end_time": "5:55 pm", "days": ["T"]}], "college": "CS", "id": "1331"}, {"meetings": [{"start_time": "1:05 pm", "location": "Klaus 1443", "end_time": "1:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C457", "end_time": "5:55 pm", "days": ["T"]}], "college": "CS", "id": "1331"}, {"meetings": [{"start_time": "1:05 pm", "location": "Klaus 1443", "end_time": "1:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C341", "end_time": "7:25 pm", "days": ["T"]}], "college": "CS", "id": "1331"}, {"meetings": [{"start_time": "1:05 pm", "location": "Klaus 1443", "end_time": "1:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Coll of Computing 101", "end_time": "5:55 pm", "days": ["T"]}], "college": "CS", "id": "1331"}, {"meetings": [{"start_time": "1:05 pm", "location": "Klaus 1443", "end_time": "1:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Coll of Computing 101", "end_time": "7:25 pm", "days": ["T"]}], "college": "CS", "id": "1331"}, {"meetings": [{"start_time": "10:05 am", "location": "Coll of Computing 16", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Klaus 2447", "end_time": "5:55 pm", "days": ["T"]}], "college": "CS", "id": "1331"}, {"meetings": [{"start_time": "1:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "1:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C457", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "1332"}, {"meetings": [{"start_time": "1:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "1:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C340", "end_time": "7:25 pm", "days": ["W"]}], "college": "CS", "id": "1332"}, {"meetings": [{"start_time": "1:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "1:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Instr Center 117", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "1332"}, {"meetings": [{"start_time": "1:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "1:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C341", "end_time": "7:25 pm", "days": ["W"]}], "college": "CS", "id": "1332"}, {"meetings": [{"start_time": "1:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "1:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Instr Center 115", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "1332"}, {"meetings": [{"start_time": "1:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "1:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Instr Center 109", "end_time": "7:25 pm", "days": ["W"]}], "college": "CS", "id": "1332"}, {"meetings": [{"start_time": "1:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "1:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C340", "end_time": "7:25 pm", "days": ["W"]}], "college": "CS", "id": "1332"}, {"meetings": [{"start_time": "10:05 am", "location": "Clough Undergraduate Commons 144", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C341", "end_time": "5:55 pm", "days": ["T"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "10:05 am", "location": "Clough Undergraduate Commons 144", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C340", "end_time": "7:25 pm", "days": ["T"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "10:05 am", "location": "Clough Undergraduate Commons 144", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C241", "end_time": "7:25 pm", "days": ["W"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "10:05 am", "location": "Clough Undergraduate Commons 144", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C457", "end_time": "5:55 pm", "days": ["R"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "10:05 am", "location": "Clough Undergraduate Commons 144", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Van Leer C457", "end_time": "7:25 pm", "days": ["R"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "10:05 am", "location": "Clough Undergraduate Commons 144", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "3:05 pm", "location": "Van Leer C240", "end_time": "4:25 pm", "days": ["W"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "2:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Instr Center 115", "end_time": "5:55 pm", "days": ["T"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "2:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Instr Center 115", "end_time": "7:25 pm", "days": ["T"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "2:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Instr Center 115", "end_time": "7:25 pm", "days": ["W"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "2:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Coll of Computing 101", "end_time": "5:55 pm", "days": ["R"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "2:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Coll of Computing 101", "end_time": "7:25 pm", "days": ["R"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "2:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "3:05 pm", "location": "Instr Center 117", "end_time": "4:25 pm", "days": ["W"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "3:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "3:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Instr Center 215", "end_time": "5:55 pm", "days": ["T"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "3:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "3:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Instr Center 117", "end_time": "7:25 pm", "days": ["T"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "3:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "3:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Coll of Computing 101", "end_time": "7:25 pm", "days": ["W"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "3:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "3:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Instr Center 117", "end_time": "5:55 pm", "days": ["R"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "3:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "3:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Instr Center 115", "end_time": "7:25 pm", "days": ["R"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "3:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "3:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Instr Center 117", "end_time": "7:25 pm", "days": ["W"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "4:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "4:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Instr Center 113", "end_time": "5:55 pm", "days": ["T"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "4:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "4:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Instr Center 215", "end_time": "7:25 pm", "days": ["T"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "4:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "4:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Instr Center 215", "end_time": "7:25 pm", "days": ["W"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "4:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "4:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Instr Center 115", "end_time": "5:55 pm", "days": ["R"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "4:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "4:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Instr Center 117", "end_time": "7:25 pm", "days": ["R"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "4:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "4:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Instr Center 217", "end_time": "7:25 pm", "days": ["W"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "2:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Instr Center 115", "end_time": "7:25 pm", "days": ["T"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "10:05 am", "location": "Clough Undergraduate Commons 144", "end_time": "10:55 am", "days": ["M", "W", "F"]}, {"start_time": "12:05 pm", "location": "Skiles 268", "end_time": "1:25 pm", "days": ["T"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "2:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "12:05 pm", "location": "Skiles 268", "end_time": "1:25 pm", "days": ["T"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "3:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "3:55 pm", "days": ["M", "W", "F"]}, {"start_time": "12:05 pm", "location": "Skiles 268", "end_time": "1:25 pm", "days": ["T"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "4:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "4:55 pm", "days": ["M", "W", "F"]}, {"start_time": "12:05 pm", "location": "Skiles 268", "end_time": "1:25 pm", "days": ["T"]}], "college": "CS", "id": "1371"}, {"meetings": [{"start_time": "1:05 pm", "location": "Klaus 2456", "end_time": "1:55 pm", "days": ["M", "W", "F"]}, {"start_time": "3:05 pm", "location": "Instr Center 107", "end_time": "4:25 pm", "days": ["R"]}], "college": "CS", "id": "1372"}, {"meetings": [{"start_time": "1:05 pm", "location": "Klaus 2456", "end_time": "1:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Klaus 1447", "end_time": "5:55 pm", "days": ["R"]}], "college": "CS", "id": "1372"}, {"meetings": [{"start_time": "2:05 pm", "location": "ES&T L1255", "end_time": "2:55 pm", "days": ["M"]}], "college": "CS", "id": "1801"}, {"meetings": [{"start_time": "2:05 pm", "location": "U A Whitaker Biomedical Engr 1103", "end_time": "2:55 pm", "days": ["W"]}], "college": "CS", "id": "1801"}, {"meetings": [{"start_time": "12:05 pm", "location": "Klaus 1443", "end_time": "12:55 pm", "days": ["M", "W", "F"]}, {"start_time": "3:05 pm", "location": "Van Leer C241", "end_time": "4:25 pm", "days": ["W"]}], "college": "CS", "id": "2050"}, {"meetings": [{"start_time": "12:05 pm", "location": "Klaus 1443", "end_time": "12:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Van Leer C341", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "2050"}, {"meetings": [{"start_time": "12:05 pm", "location": "Klaus 1443", "end_time": "12:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Instr Center 109", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "2050"}, {"meetings": [{"start_time": "2:05 pm", "location": "Klaus 1443", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "3:05 pm", "location": "Coll of Computing 101", "end_time": "4:25 pm", "days": ["W"]}], "college": "CS", "id": "2050"}, {"meetings": [{"start_time": "2:05 pm", "location": "Klaus 1443", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Instr Center 215", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "2050"}, {"meetings": [{"start_time": "2:05 pm", "location": "Klaus 1443", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "3:05 pm", "location": "Instr Center 217", "end_time": "4:25 pm", "days": ["W"]}], "college": "CS", "id": "2050"}, {"meetings": [{"start_time": "12:05 pm", "location": "Klaus 1443", "end_time": "12:55 pm", "days": ["M", "W", "F"]}, {"start_time": "3:05 pm", "location": "Van Leer C241", "end_time": "4:25 pm", "days": ["W"]}], "college": "CS", "id": "2050"}, {"meetings": [{"start_time": "4:35 pm", "location": "Klaus 2456", "end_time": "5:55 pm", "days": ["T", "R"]}], "college": "CS", "id": "2051"}, {"meetings": [{"start_time": "3:05 pm", "location": "Klaus 1443", "end_time": "4:25 pm", "days": ["M"]}, {"start_time": "12:05 pm", "location": "Instr Center 105", "end_time": "1:25 pm", "days": ["T", "R"]}, {"start_time": "3:05 pm", "location": "Klaus 1443", "end_time": "4:25 pm", "days": ["W"]}], "college": "CS", "id": "2110"}, {"meetings": [{"start_time": "4:35 pm", "location": "Klaus 1456", "end_time": "5:55 pm", "days": ["M"]}, {"start_time": "12:05 pm", "location": "Instr Center 105", "end_time": "1:25 pm", "days": ["T", "R"]}, {"start_time": "4:35 pm", "location": "Klaus 1456", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "2110"}, {"meetings": [{"start_time": "4:35 pm", "location": "Klaus 1443", "end_time": "5:55 pm", "days": ["M"]}, {"start_time": "12:05 pm", "location": "Instr Center 105", "end_time": "1:25 pm", "days": ["T", "R"]}, {"start_time": "4:35 pm", "location": "Klaus 1443", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "2110"}, {"meetings": [{"start_time": "3:05 pm", "location": "Klaus 1456", "end_time": "4:25 pm", "days": ["M"]}, {"start_time": "12:05 pm", "location": "Instr Center 105", "end_time": "1:25 pm", "days": ["T", "R"]}, {"start_time": "3:05 pm", "location": "Klaus 1456", "end_time": "4:25 pm", "days": ["W"]}], "college": "CS", "id": "2110"}, {"meetings": [{"start_time": "3:05 pm", "location": "Klaus 1443", "end_time": "4:25 pm", "days": ["M"]}, {"start_time": "3:05 pm", "location": "Clough Undergraduate Commons 152", "end_time": "4:25 pm", "days": ["T", "R"]}, {"start_time": "3:05 pm", "location": "Klaus 1443", "end_time": "4:25 pm", "days": ["W"]}], "college": "CS", "id": "2110"}, {"meetings": [{"start_time": "4:35 pm", "location": "Klaus 1456", "end_time": "5:55 pm", "days": ["M"]}, {"start_time": "3:05 pm", "location": "Clough Undergraduate Commons 152", "end_time": "4:25 pm", "days": ["T", "R"]}, {"start_time": "4:35 pm", "location": "Klaus 1456", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "2110"}, {"meetings": [{"start_time": "4:35 pm", "location": "Klaus 1443", "end_time": "5:55 pm", "days": ["M"]}, {"start_time": "3:05 pm", "location": "Clough Undergraduate Commons 152", "end_time": "4:25 pm", "days": ["T", "R"]}, {"start_time": "4:35 pm", "location": "Klaus 1443", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "2110"}, {"meetings": [{"start_time": "3:05 pm", "location": "Klaus 1456", "end_time": "4:25 pm", "days": ["M"]}, {"start_time": "3:05 pm", "location": "Clough Undergraduate Commons 152", "end_time": "4:25 pm", "days": ["T", "R"]}, {"start_time": "3:05 pm", "location": "Klaus 1456", "end_time": "4:25 pm", "days": ["W"]}], "college": "CS", "id": "2110"}, {"meetings": [{"start_time": "4:35 pm", "location": "Clough Undergraduate Commons 102", "end_time": "5:55 pm", "days": ["M"]}, {"start_time": "3:05 pm", "location": "Clough Undergraduate Commons 152", "end_time": "4:25 pm", "days": ["T", "R"]}, {"start_time": "4:35 pm", "location": "Clough Undergraduate Commons 102", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "2110"}, {"meetings": [{"start_time": "4:35 pm", "location": "Klaus 1443", "end_time": "5:55 pm", "days": ["M"]}, {"start_time": "3:05 pm", "location": "Clough Undergraduate Commons 152", "end_time": "4:25 pm", "days": ["T", "R"]}, {"start_time": "4:35 pm", "location": "Klaus 1443", "end_time": "5:55 pm", "days": ["W"]}], "college": "CS", "id": "2110"}, {"meetings": [{"start_time": "11:05 am", "location": "Klaus 1443", "end_time": "11:55 am", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Klaus 1443", "end_time": "7:25 pm", "days": ["W"]}], "college": "CS", "id": "2200"}, {"meetings": [{"start_time": "11:05 am", "location": "Klaus 1443", "end_time": "11:55 am", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Klaus 1443", "end_time": "7:25 pm", "days": ["W"]}], "college": "CS", "id": "2200"}, {"meetings": [{"start_time": "3:05 pm", "location": "Klaus 2443", "end_time": "3:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:05 pm", "location": "Klaus 2443", "end_time": "5:55 pm", "days": ["M", "W"]}], "college": "CS", "id": "2261"}, {"meetings": [{"start_time": "2:05 pm", "location": "Clough Undergraduate Commons 152", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Instr Center 117", "end_time": "5:55 pm", "days": ["T"]}], "college": "CS", "id": "2316"}, {"meetings": [{"start_time": "2:05 pm", "location": "Clough Undergraduate Commons 152", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "Klaus 2456", "end_time": "7:25 pm", "days": ["T"]}], "college": "CS", "id": "2316"}, {"meetings": [{"start_time": "2:05 pm", "location": "Clough Undergraduate Commons 152", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "Instr Center 217", "end_time": "5:55 pm", "days": ["T"]}], "college": "CS", "id": "2316"}, {"meetings": [{"start_time": "2:05 pm", "location": "Clough Undergraduate Commons 152", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "6:05 pm", "location": "ES&T L1105", "end_time": "7:25 pm", "days": ["T"]}], "college": "CS", "id": "2316"}, {"meetings": [{"start_time": "2:05 pm", "location": "Clough Undergraduate Commons 152", "end_time": "2:55 pm", "days": ["M", "W", "F"]}, {"start_time": "4:35 pm", "location": "ES&T L1105", "end_time": "5:55 pm", "days": ["T"]}], "college": "CS", "id": "2316"}, {"meetings": [{"start_time": "12:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "12:55 pm", "days": ["M", "W", "F"]}], "college": "CS", "id": "2340"}, {"meetings": [{"start_time": "12:05 pm", "location": "Clough Undergraduate Commons 144", "end_time": "12:55 pm", "days": ["M", "W", "F"]}], "college": "CS", "id": "2340"}, {"meetings": [{"start_time": "12:05 pm", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "2:55 pm", "days": ["R"]}], "college": "CS", "id": "2803"}, {"meetings": [{"start_time": "10:05 am", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "10:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "2803"}, {"meetings": [{"start_time": "12:05 pm", "location": "Van Leer C241", "end_time": "1:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "3210"}, {"meetings": [{"start_time": "12:05 pm", "location": "Van Leer C241", "end_time": "1:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "3210"}, {"meetings": [{"start_time": "9:35 am", "location": "ES&T L1205", "end_time": "10:55 am", "days": ["T", "R"]}], "college": "CS", "id": "3251"}, {"meetings": [{"start_time": "4:35 pm", "location": "Klaus 2447", "end_time": "5:55 pm", "days": ["M", "W"]}], "college": "CS", "id": "3300"}, {"meetings": [{"start_time": "1:35 pm", "location": "Klaus 1456", "end_time": "2:55 pm", "days": ["T", "R"]}], "college": "CS", "id": "3451"}, {"meetings": [{"start_time": "12:05 pm", "location": "Instr Center 205", "end_time": "12:55 pm", "days": ["M", "W", "F"]}], "college": "CS", "id": "3510"}, {"meetings": [{"start_time": "11:05 am", "location": "Klaus 2443", "end_time": "11:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "3510"}, {"meetings": [{"start_time": "11:05 am", "location": "Klaus 1456", "end_time": "11:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "3600"}, {"meetings": [{"start_time": "4:35 pm", "location": "College of Business 202", "end_time": "5:55 pm", "days": ["M", "W"]}], "college": "CS", "id": "3743"}, {"meetings": [{"start_time": "2:05 pm", "location": "Klaus 2456", "end_time": "2:55 pm", "days": ["M", "W", "F"]}], "college": "CS", "id": "3750"}, {"meetings": [{"start_time": "3:05 pm", "location": "Klaus 1443", "end_time": "4:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "3790"}, {"meetings": [{"start_time": "9:05 am", "location": "U A Whitaker Biomedical Engr 1103", "end_time": "9:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "3801"}, {"meetings": [{"start_time": "10:05 am", "location": "U A Whitaker Biomedical Engr 1103", "end_time": "10:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "3801"}, {"meetings": [{"start_time": "9:35 am", "location": "Coll of Computing 101", "end_time": "10:55 am", "days": ["T", "R"]}], "college": "CS", "id": "4001"}, {"meetings": [{"start_time": "1:35 pm", "location": "Coll of Computing 101", "end_time": "2:55 pm", "days": ["T", "R"]}], "college": "CS", "id": "4001"}, {"meetings": [{"start_time": "3:05 pm", "location": "Klaus 1447", "end_time": "4:25 pm", "days": ["M", "W"]}], "college": "CS", "id": "4001"}, {"meetings": [{"start_time": "4:35 pm", "location": "ES&T L1116", "end_time": "5:25 pm", "days": ["T"]}], "college": "CS", "id": "4005"}, {"meetings": [{"start_time": "11:05 am", "location": "Klaus 2447", "end_time": "11:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "4210"}, {"meetings": [{"start_time": "12:05 pm", "location": "Klaus 2443", "end_time": "1:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "4220"}, {"meetings": [{"start_time": "3:05 pm", "location": "Klaus 2447", "end_time": "4:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "4235"}, {"meetings": [{"start_time": "10:05 am", "location": "Coll of Computing 17", "end_time": "10:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "4261"}, {"meetings": [{"start_time": "1:35 pm", "location": "Klaus 1443", "end_time": "2:55 pm", "days": ["T", "R"]}], "college": "CS", "id": "4290"}, {"meetings": [{"start_time": "12:05 pm", "location": "Klaus 2443", "end_time": "12:55 pm", "days": ["M", "W", "F"]}], "college": "CS", "id": "4400"}, {"meetings": [{"start_time": "2:05 pm", "location": "Klaus 2443", "end_time": "2:55 pm", "days": ["M", "W", "F"]}], "college": "CS", "id": "4400"}, {"meetings": [{"start_time": "9:35 am", "location": "Klaus 2456", "end_time": "10:55 am", "days": ["T", "R"]}], "college": "CS", "id": "4420"}, {"meetings": [{"start_time": "3:05 pm", "location": "Klaus 2456", "end_time": "4:25 pm", "days": ["M", "W"]}], "college": "CS", "id": "4455"}, {"meetings": [{"start_time": "9:35 am", "location": "Instr Center 109", "end_time": "10:55 am", "days": ["T", "R"]}], "college": "CS", "id": "4460"}, {"meetings": [{"start_time": "9:35 am", "location": "Instr Center 215", "end_time": "10:55 am", "days": ["T", "R"]}], "college": "CS", "id": "4470"}, {"meetings": [{"start_time": "4:35 pm", "location": "Klaus 1456", "end_time": "5:55 pm", "days": ["T", "R"]}], "college": "CS", "id": "4495"}, {"meetings": [{"start_time": "4:35 pm", "location": "Klaus 1456", "end_time": "5:55 pm", "days": ["T", "R"]}], "college": "CS", "id": "4495"}, {"meetings": [{"start_time": "2:05 pm", "location": "ES&T L1175", "end_time": "2:55 pm", "days": ["M", "W", "F"]}], "college": "CS", "id": "4510"}, {"meetings": [{"start_time": "9:35 am", "location": "Van Leer C240", "end_time": "10:55 am", "days": ["T", "R"]}], "college": "CS", "id": "4540"}, {"meetings": [{"start_time": "9:05 am", "location": "Klaus 2456", "end_time": "9:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "4635"}, {"meetings": [{"start_time": "1:05 pm", "location": "Klaus 1456", "end_time": "1:55 pm", "days": ["M", "W", "F"]}], "college": "CS", "id": "4635"}, {"meetings": [{"start_time": "12:05 pm", "location": "Coll of Computing 101", "end_time": "1:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "4649"}, {"meetings": [{"start_time": "3:05 pm", "location": "Coll of Computing 101", "end_time": "4:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "4650"}, {"meetings": [{"start_time": "3:05 pm", "location": "Coll of Computing 102", "end_time": "4:25 pm", "days": ["T", "R"]}, {"start_time": "3:05 pm", "location": "Coll of Computing 102", "end_time": "4:55 pm", "days": ["W"]}], "college": "CS", "id": "4710"}, {"meetings": [{"start_time": "5:05 pm", "location": "College of Business 101", "end_time": "6:25 pm", "days": ["M", "W"]}], "college": "CS", "id": "4741"}, {"meetings": [{"start_time": "1:35 pm", "location": "Coll of Computing 102", "end_time": "2:55 pm", "days": ["T", "R"]}], "college": "CS", "id": "4803"}, {"meetings": [{"start_time": "12:05 pm", "location": "Van Leer C341", "end_time": "1:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "4803"}, {"meetings": [{"start_time": "3:05 pm", "location": "Instr Center 105", "end_time": "4:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "4803"}, {"meetings": [{"start_time": "1:05 pm", "location": "Klaus 2456", "end_time": "1:55 pm", "days": ["M", "W", "F"]}, {"start_time": "3:05 pm", "location": "Instr Center 107", "end_time": "4:25 pm", "days": ["R"]}], "college": "CS", "id": "4803"}, {"meetings": [{"start_time": "10:05 am", "location": "Coll of Computing 101", "end_time": "10:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "4911"}, {"meetings": [{"start_time": "2:05 pm", "location": "Coll of Computing 17", "end_time": "2:55 pm", "days": ["M", "W", "F"]}], "college": "CS", "id": "4911"}, {"meetings": [{"start_time": "11:05 am", "location": "Klaus 1447", "end_time": "11:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "4911"}, {"meetings": [{"start_time": "1:05 pm", "location": "Coll of Computing 101", "end_time": "1:55 pm", "days": ["M", "W", "F"]}], "college": "CS", "id": "4912"}, {"meetings": [{"start_time": "3:05 pm", "location": "Klaus 2447", "end_time": "4:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "6035"}, {"meetings": [{"start_time": "11:05 am", "location": "Klaus 1447", "end_time": "11:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "6150"}, {"meetings": [{"start_time": "11:05 am", "location": "Klaus 2447", "end_time": "11:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "6210"}, {"meetings": [{"start_time": "12:05 pm", "location": "Klaus 2443", "end_time": "1:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "6235"}, {"meetings": [{"start_time": "9:35 am", "location": "Instr Center 113", "end_time": "10:55 am", "days": ["T", "R"]}], "college": "CS", "id": "6250"}, {"meetings": [{"start_time": "12:05 pm", "location": "Instr Center 215", "end_time": "1:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "6260"}, {"meetings": [{"start_time": "1:35 pm", "location": "Van Leer C457", "end_time": "2:55 pm", "days": ["T", "R"]}], "college": "CS", "id": "6265"}, {"meetings": [{"start_time": "1:35 pm", "location": "Klaus 1443", "end_time": "2:55 pm", "days": ["T", "R"]}], "college": "CS", "id": "6290"}, {"meetings": [{"start_time": "3:05 pm", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "4:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "6320"}, {"meetings": [{"start_time": "1:05 pm", "location": "Sustainable Education 110", "end_time": "2:25 pm", "days": ["W", "F"]}], "college": "CS", "id": "6400"}, {"meetings": [{"start_time": "9:35 am", "location": "Klaus 2456", "end_time": "10:55 am", "days": ["T", "R"]}], "college": "CS", "id": "6422"}, {"meetings": [{"start_time": "12:05 pm", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "2:55 pm", "days": ["W"]}], "college": "CS", "id": "6451"}, {"meetings": [{"start_time": "9:05 am", "location": "Coll of Computing 52", "end_time": "11:55 am", "days": ["M"]}], "college": "CS", "id": "6452"}, {"meetings": [{"start_time": "9:35 am", "location": "Instr Center 215", "end_time": "10:55 am", "days": ["T", "R"]}], "college": "CS", "id": "6456"}, {"meetings": [{"start_time": "3:05 pm", "location": "Klaus 2456", "end_time": "4:25 pm", "days": ["M", "W"]}], "college": "CS", "id": "6457"}, {"meetings": [{"start_time": "9:35 am", "location": "ES&T L1118", "end_time": "10:55 am", "days": ["T", "R"]}], "college": "CS", "id": "6460"}, {"meetings": [{"start_time": "3:05 pm", "location": "Klaus 1447", "end_time": "4:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "6491"}, {"meetings": [{"start_time": "12:05 pm", "location": "Klaus 1456", "end_time": "12:55 pm", "days": ["M", "W", "F"]}], "college": "CS", "id": "6505"}, {"meetings": [{"start_time": "1:35 pm", "location": "Klaus 1447", "end_time": "2:55 pm", "days": ["T", "R"]}], "college": "CS", "id": "6520"}, {"meetings": [{"start_time": "9:35 am", "location": "Instr Center 115", "end_time": "10:55 am", "days": ["T", "R"]}], "college": "CS", "id": "6601"}, {"meetings": [{"start_time": "1:05 pm", "location": "Klaus 1447", "end_time": "1:55 pm", "days": ["M", "W", "F"]}], "college": "CS", "id": "6750"}, {"meetings": [{"start_time": "3:05 pm", "location": "Howey (Physics) L1", "end_time": "4:55 pm", "days": ["R"]}], "college": "CS", "id": "6753"}, {"meetings": [{"start_time": "3:05 pm", "location": "Van Leer E261", "end_time": "4:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "6754"}, {"meetings": [{"start_time": "1:35 pm", "location": "Architecture (East) 107", "end_time": "2:55 pm", "days": ["T", "R"]}], "college": "CS", "id": "6763"}, {"meetings": [{"start_time": "2:05 pm", "location": "Coll of Computing 101", "end_time": "4:55 pm", "days": ["F"]}], "college": "CS", "id": "7001"}, {"meetings": [{"start_time": "1:05 pm", "location": "Klaus 2447", "end_time": "1:55 pm", "days": ["M", "W", "F"]}], "college": "CS", "id": "7260"}, {"meetings": [{"start_time": "3:05 pm", "location": "U A Whitaker Biomedical Engr 1103", "end_time": "4:25 pm", "days": ["M", "W"]}], "college": "CS", "id": "7450"}, {"meetings": [{"start_time": "3:05 pm", "location": "ES&T L1105", "end_time": "4:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "7495"}, {"meetings": [{"start_time": "12:05 pm", "location": "Klaus 2456", "end_time": "1:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "7496"}, {"meetings": [{"start_time": "3:05 pm", "location": "ES&T L1175", "end_time": "4:25 pm", "days": ["M", "W"]}], "college": "CS", "id": "7545"}, {"meetings": [{"start_time": "9:05 am", "location": "Klaus 2456", "end_time": "9:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "7637"}, {"meetings": [{"start_time": "1:35 pm", "location": "Instr Center 105", "end_time": "2:55 pm", "days": ["T", "R"]}], "college": "CS", "id": "7641"}, {"meetings": [{"start_time": "3:05 pm", "location": "Instr Center 105", "end_time": "4:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "7646"}, {"meetings": [{"start_time": "3:05 pm", "location": "Instr Center 105", "end_time": "4:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "7646"}, {"meetings": [{"start_time": "12:05 pm", "location": "Coll of Computing 101", "end_time": "1:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "7649"}, {"meetings": [{"start_time": "3:05 pm", "location": "Coll of Computing 101", "end_time": "4:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "7650"}, {"meetings": [{"start_time": "3:05 pm", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "5:55 pm", "days": ["T"]}], "college": "CS", "id": "7697"}, {"meetings": [{"start_time": "1:05 pm", "location": "Coll of Computing 52", "end_time": "1:55 pm", "days": ["M", "W", "F"]}], "college": "CS", "id": "7785"}, {"meetings": [{"start_time": "12:05 pm", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "12:55 pm", "days": ["F"]}], "college": "CS", "id": "8001"}, {"meetings": [{"start_time": "12:05 pm", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "12:55 pm", "days": ["W"]}], "college": "CS", "id": "8001"}, {"meetings": [{"start_time": "2:05 pm", "location": "U A Whitaker Biomedical Engr 1103", "end_time": "2:55 pm", "days": ["F"]}], "college": "CS", "id": "8001"}, {"meetings": [{"start_time": "10:05 am", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "10:55 am", "days": ["W"]}], "college": "CS", "id": "8001"}, {"meetings": [{"start_time": "12:05 pm", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "12:55 pm", "days": ["R"]}], "college": "CS", "id": "8001"}, {"meetings": [{"start_time": "12:05 pm", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "12:55 pm", "days": ["T"]}], "college": "CS", "id": "8001"}, {"meetings": [{"start_time": "12:05 pm", "location": "Coll of Computing 101", "end_time": "12:55 pm", "days": ["F"]}], "college": "CS", "id": "8001"}, {"meetings": [{"start_time": "3:05 pm", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "3:55 pm", "days": ["R"]}], "college": "CS", "id": "8001"}, {"meetings": [{"start_time": "12:05 pm", "location": "Nanotechnology 1116", "end_time": "12:55 pm", "days": ["W"]}], "college": "CS", "id": "8001"}, {"meetings": [{"start_time": "3:05 pm", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "3:55 pm", "days": ["M"]}], "college": "CS", "id": "8001"}, {"meetings": [{"start_time": "11:05 am", "location": "ES&T L1118", "end_time": "12:55 pm", "days": ["F"]}], "college": "CS", "id": "8001"}, {"meetings": [{"start_time": "12:05 pm", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "12:55 pm", "days": ["W"]}], "college": "CS", "id": "8001"}, {"meetings": [{"start_time": "12:05 pm", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "12:55 pm", "days": ["T"]}], "college": "CS", "id": "8002"}, {"meetings": [{"start_time": "1:35 pm", "location": "Coll of Computing 102", "end_time": "2:55 pm", "days": ["T", "R"]}], "college": "CS", "id": "8803"}, {"meetings": [{"start_time": "2:05 pm", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "3:25 pm", "days": ["M", "W"]}], "college": "CS", "id": "8803"}, {"meetings": [{"start_time": "3:05 pm", "location": "Instr Center 219", "end_time": "4:25 pm", "days": ["T", "R"]}], "college": "CS", "id": "8803"}, {"meetings": [{"start_time": "11:05 am", "location": "Coll of Computing 53", "end_time": "11:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "8803"}, {"meetings": [{"start_time": "1:05 pm", "location": "Cherry Emerson 204", "end_time": "2:25 pm", "days": ["M", "W"]}], "college": "CS", "id": "8803"}, {"meetings": [{"start_time": "10:05 am", "location": "Coll of Computing 17", "end_time": "10:55 am", "days": ["M", "W", "F"]}], "college": "CS", "id": "8803"}, {"meetings": [{"start_time": "12:05 pm", "location": "U A Whitaker Biomedical Engr 1214", "end_time": "2:55 pm", "days": ["M"]}], "college": "CS", "id": "8803"}, {"meetings": [{"start_time": "1:35 pm", "location": "ES&T L1175", "end_time": "2:55 pm", "days": ["T", "R"]}], "college": "CS", "id": "8803"}, {"meetings": [{"start_time": "4:35 pm", "location": "Klaus 2456", "end_time": "5:55 pm", "days": ["M", "W"]}], "college": "CS", "id": "8803"}, {"meetings": [{"start_time": "10:05 am", "location": "Coll of Computing 102", "end_time": "10:55 am", "days": ["F"]}], "college": "CS", "id": "8803"}, {"meetings": [{"start_time": "1:05 pm", "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", "end_time": "2:10 pm", "days": ["M", "T", "W", "R"]}], "college": "CS", "id": "8998"}]
+[
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "1100", 
+        "meetings": [
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "3:55 pm", 
+                "location": "Howey (Physics) L1", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Freshman Leap Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "1100", 
+        "meetings": [
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "3:55 pm", 
+                "location": "Van Leer C241", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Freshman Leap Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "1100", 
+        "meetings": [
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "3:55 pm", 
+                "location": "Coll of Computing 16", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Freshman Leap Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "1100", 
+        "meetings": [
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "3:55 pm", 
+                "location": "Howey (Physics) L5", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Freshman Leap Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "1171", 
+        "meetings": [
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Computing in MATLAB"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "9:55 am", 
+                "location": "Howey (Physics) L2", 
+                "start_time": "9:05 am"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C240", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "9:55 am", 
+                "location": "Howey (Physics) L2", 
+                "start_time": "9:05 am"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C240", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "9:55 am", 
+                "location": "Howey (Physics) L2", 
+                "start_time": "9:05 am"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C240", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "9:55 am", 
+                "location": "Howey (Physics) L2", 
+                "start_time": "9:05 am"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C240", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "9:55 am", 
+                "location": "Howey (Physics) L2", 
+                "start_time": "9:05 am"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C241", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "9:55 am", 
+                "location": "Howey (Physics) L2", 
+                "start_time": "9:05 am"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C241", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "9:55 am", 
+                "location": "Howey (Physics) L2", 
+                "start_time": "9:05 am"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C340", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Howey (Physics) L4", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C240", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Howey (Physics) L4", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C240", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Howey (Physics) L4", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C240", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Howey (Physics) L4", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C240", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Howey (Physics) L4", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C241", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Howey (Physics) L4", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C241", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Howey (Physics) L4", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C340", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1301", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "9:55 am", 
+                "location": "Howey (Physics) L2", 
+                "start_time": "9:05 am"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C240", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro to Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1315", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Klaus 1443", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Van Leer C241", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Intro Media Computation"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1315", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Klaus 1443", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C341", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro Media Computation"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1315", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Klaus 1443", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C341", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Intro Media Computation"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1315", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Howey (Physics) L2", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Love (MRDC II) 184", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Intro Media Computation"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1315", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Howey (Physics) L2", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C340", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro Media Computation"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1315", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Howey (Physics) L2", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C241", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Intro Media Computation"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1315", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Klaus 1443", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C341", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Intro Media Computation"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1331", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Coll of Computing 16", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 2447", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro-Object Orient Prog"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1331", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Coll of Computing 16", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C241", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Intro-Object Orient Prog"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1331", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Coll of Computing 16", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C241", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro-Object Orient Prog"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1331", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Coll of Computing 16", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C340", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro-Object Orient Prog"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1331", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "1:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C457", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro-Object Orient Prog"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1331", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "1:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C341", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Intro-Object Orient Prog"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1331", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "1:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Coll of Computing 101", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro-Object Orient Prog"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1331", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "1:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Coll of Computing 101", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Intro-Object Orient Prog"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1331", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Coll of Computing 16", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 2447", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro-Object Orient Prog"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1332", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "1:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C457", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Data Struct &amp; Algorithms"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1332", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "1:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C340", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Data Struct &amp; Algorithms"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1332", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "1:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Instr Center 117", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Data Struct &amp; Algorithms"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1332", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "1:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C341", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Data Struct &amp; Algorithms"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1332", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "1:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Instr Center 115", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Data Struct &amp; Algorithms"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1332", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "1:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Instr Center 109", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Data Struct &amp; Algorithms"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1332", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "1:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C340", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Data Struct &amp; Algorithms"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C341", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C340", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C241", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C457", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Van Leer C457", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Van Leer C240", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Instr Center 115", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Instr Center 115", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Instr Center 115", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Coll of Computing 101", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Coll of Computing 101", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Instr Center 117", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "3:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Instr Center 215", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "3:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Instr Center 117", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "3:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Coll of Computing 101", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "3:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Instr Center 117", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "3:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Instr Center 115", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "3:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Instr Center 117", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "4:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "4:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Instr Center 113", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "4:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "4:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Instr Center 215", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "4:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "4:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Instr Center 215", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "4:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "4:05 pm"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Instr Center 115", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "4:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "4:05 pm"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Instr Center 117", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "4:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "4:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Instr Center 217", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Instr Center 115", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "10:05 am"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Skiles 268", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Skiles 268", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "3:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Skiles 268", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1371", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "4:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "4:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Skiles 268", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Computing for Engineers"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1372", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Klaus 2456", 
+                "start_time": "1:05 pm"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Instr Center 107", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Program Design for Engrs"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "1372", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Klaus 2456", 
+                "start_time": "1:05 pm"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 1447", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Program Design for Engrs"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "1801", 
+        "meetings": [
+            {
+                "days": [
+                    "M"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "ES&T L1255", 
+                "start_time": "2:05 pm"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "1801", 
+        "meetings": [
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "U A Whitaker Biomedical Engr 1103", 
+                "start_time": "2:05 pm"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2050", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "12:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Van Leer C241", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Intro Discrete Math CS"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2050", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "12:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Van Leer C341", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro Discrete Math CS"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2050", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "12:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Instr Center 109", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro Discrete Math CS"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2050", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Coll of Computing 101", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Intro Discrete Math CS"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2050", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Instr Center 215", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro Discrete Math CS"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2050", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Instr Center 217", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Intro Discrete Math CS"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2050", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "12:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Van Leer C241", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Intro Discrete Math CS"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2051", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 2456", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Honors Discrete Math CS"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "4.000", 
+        "id": "2110", 
+        "meetings": [
+            {
+                "days": [
+                    "M"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Instr Center 105", 
+                "start_time": "12:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Computer Organiz&amp;Program"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "4.000", 
+        "id": "2110", 
+        "meetings": [
+            {
+                "days": [
+                    "M"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 1456", 
+                "start_time": "4:35 pm"
+            }, 
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Instr Center 105", 
+                "start_time": "12:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 1456", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computer Organiz&amp;Program"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "4.000", 
+        "id": "2110", 
+        "meetings": [
+            {
+                "days": [
+                    "M"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "4:35 pm"
+            }, 
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Instr Center 105", 
+                "start_time": "12:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computer Organiz&amp;Program"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "4.000", 
+        "id": "2110", 
+        "meetings": [
+            {
+                "days": [
+                    "M"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 1456", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Instr Center 105", 
+                "start_time": "12:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 1456", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Computer Organiz&amp;Program"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "4.000", 
+        "id": "2110", 
+        "meetings": [
+            {
+                "days": [
+                    "M"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Clough Undergraduate Commons 152", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Computer Organiz&amp;Program"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "4.000", 
+        "id": "2110", 
+        "meetings": [
+            {
+                "days": [
+                    "M"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 1456", 
+                "start_time": "4:35 pm"
+            }, 
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Clough Undergraduate Commons 152", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 1456", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computer Organiz&amp;Program"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "4.000", 
+        "id": "2110", 
+        "meetings": [
+            {
+                "days": [
+                    "M"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "4:35 pm"
+            }, 
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Clough Undergraduate Commons 152", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computer Organiz&amp;Program"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "4.000", 
+        "id": "2110", 
+        "meetings": [
+            {
+                "days": [
+                    "M"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 1456", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Clough Undergraduate Commons 152", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 1456", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Computer Organiz&amp;Program"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "4.000", 
+        "id": "2110", 
+        "meetings": [
+            {
+                "days": [
+                    "M"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Clough Undergraduate Commons 102", 
+                "start_time": "4:35 pm"
+            }, 
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Clough Undergraduate Commons 152", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Clough Undergraduate Commons 102", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computer Organiz&amp;Program"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "4.000", 
+        "id": "2110", 
+        "meetings": [
+            {
+                "days": [
+                    "M"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "4:35 pm"
+            }, 
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Clough Undergraduate Commons 152", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computer Organiz&amp;Program"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "4.000", 
+        "id": "2200", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "11:55 am", 
+                "location": "Klaus 1443", 
+                "start_time": "11:05 am"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Systems and Networks"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "4.000", 
+        "id": "2200", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "11:55 am", 
+                "location": "Klaus 1443", 
+                "start_time": "11:05 am"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Systems and Networks"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "4.000", 
+        "id": "2261", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "3:55 pm", 
+                "location": "Klaus 2443", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "M", 
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 2443", 
+                "start_time": "4:05 pm"
+            }
+        ], 
+        "title": "Media Device Architectur"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2316", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Clough Undergraduate Commons 152", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Instr Center 117", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Data Input/Manipulation"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2316", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Clough Undergraduate Commons 152", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "Klaus 2456", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Data Input/Manipulation"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2316", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Clough Undergraduate Commons 152", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Instr Center 217", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Data Input/Manipulation"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2316", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Clough Undergraduate Commons 152", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "7:25 pm", 
+                "location": "ES&T L1105", 
+                "start_time": "6:05 pm"
+            }
+        ], 
+        "title": "Data Input/Manipulation"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2316", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Clough Undergraduate Commons 152", 
+                "start_time": "2:05 pm"
+            }, 
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "ES&T L1105", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Data Input/Manipulation"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2340", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Objects and Design"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2340", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "Clough Undergraduate Commons 144", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Objects and Design"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2803", 
+        "meetings": [
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "2803", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "10:05 am"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "3210", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Van Leer C241", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Design-Operating Systems"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "3210", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Van Leer C241", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Design-Operating Systems"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "3251", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "ES&T L1205", 
+                "start_time": "9:35 am"
+            }
+        ], 
+        "title": "Computer Networking I"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "3300", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 2447", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Intro to Software Engr"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "3451", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Klaus 1456", 
+                "start_time": "1:35 pm"
+            }
+        ], 
+        "title": "Computer Graphics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "3510", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "Instr Center 205", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Dsgn&amp;Analysis-Algorithms"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "3510", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "11:55 am", 
+                "location": "Klaus 2443", 
+                "start_time": "11:05 am"
+            }
+        ], 
+        "title": "Dsgn&amp;Analysis-Algorithms"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "3600", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "11:55 am", 
+                "location": "Klaus 1456", 
+                "start_time": "11:05 am"
+            }
+        ], 
+        "title": "Intro-Artificial Intell"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "3743", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "College of Business 202", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Emerging Technologies"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "3750", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Klaus 2456", 
+                "start_time": "2:05 pm"
+            }
+        ], 
+        "title": "User Interface Design"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "3790", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Intro-Cognitive Science"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "3801", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "9:55 am", 
+                "location": "U A Whitaker Biomedical Engr 1103", 
+                "start_time": "9:05 am"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "3801", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "U A Whitaker Biomedical Engr 1103", 
+                "start_time": "10:05 am"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4001", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Coll of Computing 101", 
+                "start_time": "9:35 am"
+            }
+        ], 
+        "title": "Computing &amp; Society"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4001", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Coll of Computing 101", 
+                "start_time": "1:35 pm"
+            }
+        ], 
+        "title": "Computing &amp; Society"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4001", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 1447", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Computing &amp; Society"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4005", 
+        "meetings": [
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:25 pm", 
+                "location": "ES&T L1116", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Next Gen Computing Tech"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4210", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "11:55 am", 
+                "location": "Klaus 2447", 
+                "start_time": "11:05 am"
+            }
+        ], 
+        "title": "Adv Operating Systems"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4220", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Klaus 2443", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Embedded Systems"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4235", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 2447", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Intro to Info Security"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4261", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Coll of Computing 17", 
+                "start_time": "10:05 am"
+            }
+        ], 
+        "title": "Mobile Apps &amp; Svcs"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4290", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "1:35 pm"
+            }
+        ], 
+        "title": "Advanced Computer Org"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4400", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "Klaus 2443", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Intr to Database Systems"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4400", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Klaus 2443", 
+                "start_time": "2:05 pm"
+            }
+        ], 
+        "title": "Intr to Database Systems"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4420", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Klaus 2456", 
+                "start_time": "9:35 am"
+            }
+        ], 
+        "title": "Database Sys Implement"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4455", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 2456", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Video Game Design"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4460", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Instr Center 109", 
+                "start_time": "9:35 am"
+            }
+        ], 
+        "title": "Intro Info Visualization"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4470", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Instr Center 215", 
+                "start_time": "9:35 am"
+            }
+        ], 
+        "title": "User Interface Software"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4495", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 1456", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computer Vision"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4495", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 1456", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Computer Vision"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4510", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "ES&T L1175", 
+                "start_time": "2:05 pm"
+            }
+        ], 
+        "title": "Automata and Complexity"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4540", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Van Leer C240", 
+                "start_time": "9:35 am"
+            }
+        ], 
+        "title": "Advanced Algs"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4635", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "9:55 am", 
+                "location": "Klaus 2456", 
+                "start_time": "9:05 am"
+            }
+        ], 
+        "title": "Knowledge-Based AI"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4635", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Klaus 1456", 
+                "start_time": "1:05 pm"
+            }
+        ], 
+        "title": "Knowledge-Based AI"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4649", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Coll of Computing 101", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Robot Intelli Planning"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4650", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Coll of Computing 101", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Natural Language"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "4.000", 
+        "id": "4710", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Coll of Computing 102", 
+                "start_time": "3:05 pm"
+            }, 
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "4:55 pm", 
+                "location": "Coll of Computing 102", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "CS for Bioinformatics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4741", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W"
+                ], 
+                "end_time": "6:25 pm", 
+                "location": "College of Business 101", 
+                "start_time": "5:05 pm"
+            }
+        ], 
+        "title": "Int Mgt Dev - Proj Prep"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4803", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Coll of Computing 102", 
+                "start_time": "1:35 pm"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4803", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Van Leer C341", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4803", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Instr Center 105", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4803", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Klaus 2456", 
+                "start_time": "1:05 pm"
+            }, 
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Instr Center 107", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4911", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Coll of Computing 101", 
+                "start_time": "10:05 am"
+            }
+        ], 
+        "title": "Design Capstone Project"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4911", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Coll of Computing 17", 
+                "start_time": "2:05 pm"
+            }
+        ], 
+        "title": "Design Capstone Project"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4911", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "11:55 am", 
+                "location": "Klaus 1447", 
+                "start_time": "11:05 am"
+            }
+        ], 
+        "title": "Design Capstone Project"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "4912", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Coll of Computing 101", 
+                "start_time": "1:05 pm"
+            }
+        ], 
+        "title": "Design Capstone Project"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6035", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 2447", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Intro To Info Security"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6150", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "11:55 am", 
+                "location": "Klaus 1447", 
+                "start_time": "11:05 am"
+            }
+        ], 
+        "title": "Computing For Good"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6210", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "11:55 am", 
+                "location": "Klaus 2447", 
+                "start_time": "11:05 am"
+            }
+        ], 
+        "title": "Adv Operating Systems"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6235", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Klaus 2443", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Real-Time Systems"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6250", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Instr Center 113", 
+                "start_time": "9:35 am"
+            }
+        ], 
+        "title": "Computer Networks"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6260", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Instr Center 215", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Applied Cryptography"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6265", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Van Leer C457", 
+                "start_time": "1:35 pm"
+            }
+        ], 
+        "title": "Information Security Lab"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6290", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Klaus 1443", 
+                "start_time": "1:35 pm"
+            }
+        ], 
+        "title": "High Perform Comput Arch"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6320", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Requirements Analysis"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6400", 
+        "meetings": [
+            {
+                "days": [
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "2:25 pm", 
+                "location": "Sustainable Education 110", 
+                "start_time": "1:05 pm"
+            }
+        ], 
+        "title": "DB Sys Concepts&amp; Design"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6422", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Klaus 2456", 
+                "start_time": "9:35 am"
+            }
+        ], 
+        "title": "Database System Implemnt"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6451", 
+        "meetings": [
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Human-Centered Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6452", 
+        "meetings": [
+            {
+                "days": [
+                    "M"
+                ], 
+                "end_time": "11:55 am", 
+                "location": "Coll of Computing 52", 
+                "start_time": "9:05 am"
+            }
+        ], 
+        "title": "Prototyping Interact Sys"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6456", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Instr Center 215", 
+                "start_time": "9:35 am"
+            }
+        ], 
+        "title": "Principles-UI Software"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6457", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 2456", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Video Game Design"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6460", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "ES&T L1118", 
+                "start_time": "9:35 am"
+            }
+        ], 
+        "title": "Educ Tech-Foundations"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6491", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Klaus 1447", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Computer Graphics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6505", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "Klaus 1456", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Computability&amp;Algorithms"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6520", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Klaus 1447", 
+                "start_time": "1:35 pm"
+            }
+        ], 
+        "title": "Computational Complexity"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6601", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Instr Center 115", 
+                "start_time": "9:35 am"
+            }
+        ], 
+        "title": "Artificial Intelligence"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6750", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Klaus 1447", 
+                "start_time": "1:05 pm"
+            }
+        ], 
+        "title": "Human-Computer Interact"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "6753", 
+        "meetings": [
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "4:55 pm", 
+                "location": "Howey (Physics) L1", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "HCI Prof Prep &amp; Practice"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6754", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Van Leer E261", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Engr Database Mgt System"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "6763", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Architecture (East) 107", 
+                "start_time": "1:35 pm"
+            }
+        ], 
+        "title": "Design of Environments"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "5.000", 
+        "id": "7001", 
+        "meetings": [
+            {
+                "days": [
+                    "F"
+                ], 
+                "end_time": "4:55 pm", 
+                "location": "Coll of Computing 101", 
+                "start_time": "2:05 pm"
+            }
+        ], 
+        "title": "Grad Studies-Computing"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "7260", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Klaus 2447", 
+                "start_time": "1:05 pm"
+            }
+        ], 
+        "title": "Internet Arch&amp; Protocols"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "7450", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "U A Whitaker Biomedical Engr 1103", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Inform Visualization"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "7495", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "ES&T L1105", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Computer Vision"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "7496", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Klaus 2456", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Computer Animation"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "7545", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "ES&T L1175", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Machine Learning Theory"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "7637", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "9:55 am", 
+                "location": "Klaus 2456", 
+                "start_time": "9:05 am"
+            }
+        ], 
+        "title": "Knowledge-Based AI"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "7641", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Instr Center 105", 
+                "start_time": "1:35 pm"
+            }
+        ], 
+        "title": "Machine Learning"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "7646", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Instr Center 105", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Mach Learn For Trading"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "7646", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Instr Center 105", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Mach Learn For Trading"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "7649", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "1:25 pm", 
+                "location": "Coll of Computing 101", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Robot Intelli: Planning"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "7650", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Coll of Computing 101", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Natural Language"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "7697", 
+        "meetings": [
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Cognitive Model Sci&amp;Tech"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "7785", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "1:55 pm", 
+                "location": "Coll of Computing 52", 
+                "start_time": "1:05 pm"
+            }
+        ], 
+        "title": "Intro Robotics Research"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "8001", 
+        "meetings": [
+            {
+                "days": [
+                    "F"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "8001", 
+        "meetings": [
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "8001", 
+        "meetings": [
+            {
+                "days": [
+                    "F"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "U A Whitaker Biomedical Engr 1103", 
+                "start_time": "2:05 pm"
+            }
+        ], 
+        "title": "Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "8001", 
+        "meetings": [
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "10:05 am"
+            }
+        ], 
+        "title": "Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "8001", 
+        "meetings": [
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "8001", 
+        "meetings": [
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "8001", 
+        "meetings": [
+            {
+                "days": [
+                    "F"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "Coll of Computing 101", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "8001", 
+        "meetings": [
+            {
+                "days": [
+                    "R"
+                ], 
+                "end_time": "3:55 pm", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "8001", 
+        "meetings": [
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "Nanotechnology 1116", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "8001", 
+        "meetings": [
+            {
+                "days": [
+                    "M"
+                ], 
+                "end_time": "3:55 pm", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "8001", 
+        "meetings": [
+            {
+                "days": [
+                    "F"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "ES&T L1118", 
+                "start_time": "11:05 am"
+            }
+        ], 
+        "title": "Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "1.000", 
+        "id": "8001", 
+        "meetings": [
+            {
+                "days": [
+                    "W"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "2.000", 
+        "id": "8002", 
+        "meetings": [
+            {
+                "days": [
+                    "T"
+                ], 
+                "end_time": "12:55 pm", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Seminar"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "8803", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "Coll of Computing 102", 
+                "start_time": "1:35 pm"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "8803", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W"
+                ], 
+                "end_time": "3:25 pm", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "2:05 pm"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "8803", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "4:25 pm", 
+                "location": "Instr Center 219", 
+                "start_time": "3:05 pm"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "8803", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "11:55 am", 
+                "location": "Coll of Computing 53", 
+                "start_time": "11:05 am"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "8803", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W"
+                ], 
+                "end_time": "2:25 pm", 
+                "location": "Cherry Emerson 204", 
+                "start_time": "1:05 pm"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "8803", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W", 
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Coll of Computing 17", 
+                "start_time": "10:05 am"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "8803", 
+        "meetings": [
+            {
+                "days": [
+                    "M"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "U A Whitaker Biomedical Engr 1214", 
+                "start_time": "12:05 pm"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "8803", 
+        "meetings": [
+            {
+                "days": [
+                    "T", 
+                    "R"
+                ], 
+                "end_time": "2:55 pm", 
+                "location": "ES&T L1175", 
+                "start_time": "1:35 pm"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "8803", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "W"
+                ], 
+                "end_time": "5:55 pm", 
+                "location": "Klaus 2456", 
+                "start_time": "4:35 pm"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "3.000", 
+        "id": "8803", 
+        "meetings": [
+            {
+                "days": [
+                    "F"
+                ], 
+                "end_time": "10:55 am", 
+                "location": "Coll of Computing 102", 
+                "start_time": "10:05 am"
+            }
+        ], 
+        "title": "Special Topics"
+    }, 
+    {
+        "college": "CS", 
+        "credits": "6.000", 
+        "id": "8998", 
+        "meetings": [
+            {
+                "days": [
+                    "M", 
+                    "T", 
+                    "W", 
+                    "R"
+                ], 
+                "end_time": "2:10 pm", 
+                "location": "<ABBR title = \"To Be Announced\">TBA</ABBR>", 
+                "start_time": "1:05 pm"
+            }
+        ], 
+        "title": "Research Assistantship"
+    }
+]
