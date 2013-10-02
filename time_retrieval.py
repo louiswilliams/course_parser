@@ -24,11 +24,13 @@ for course in courses:
 
 	sections = []
 	for section_code in section_code_list:
-		# Gets time, day, room
-		class_regex = "<td CLASS=\"dddefault\">Class</td>\n<td CLASS=\"dddefault\">(.*?)</td>\n<td CLASS=\"dddefault\">(.*?)</td>\n<td CLASS=\"dddefault\">(.*?)</td>"
-		classes = re.findall(class_regex, section_code)
-		section = {"college": course["college"], "id": course["id"], "classTimes": classes}
-		sections.append(section)
+		# Gets start time, end time, day, room
+		class_regex = "<td CLASS=\"dddefault\">Class</td>\n<td CLASS=\"dddefault\">(.*?) - (.*?)</td>\n<td CLASS=\"dddefault\">(.*?)</td>\n<td CLASS=\"dddefault\">(.*?)</td>"
+		raw_meetings = re.findall(class_regex, section_code)
+		if raw_meetings:
+			meetings = [ { "start_time": raw_meeting[0], "end_time": raw_meeting[1], "days": list(raw_meeting[2]), "location": raw_meeting[3] } for raw_meeting in raw_meetings ]
+			section = {"college": course["college"], "id": course["id"], "meetings": meetings}
+			sections.append(section)
 
 	# Currently treating sections as independent and not grouping by course
 	all_sections = all_sections + sections
@@ -37,8 +39,8 @@ for course in courses:
 # for section in all_sections:
 # 	print section["college"], " ", section["id"]
 # 	print "---"
-# 	for class_time in section["classTimes"]:
-# 		print class_time[1], " ", class_time[0]
+# 	for meeting in section["meetings"]:
+# 		print meeting["days"], meeting["start_time"] + " - " + meeting["end_time"]
 # 	print ""
 
 # Putting sections in json
