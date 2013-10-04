@@ -24,7 +24,7 @@ for course in courses:
 	section_list = sourcedata.split("<th CLASS=\"ddtitle\" scope=\"colgroup\" >")
 	for section_html in section_list:
 		# Used to get the section ID
-		section_regex = "<a href=\"/pls/bprod/bwckschd\.p_disp_detail_sched.*- (.*?)</a></th>"
+		section_regex = "<a href=\"/pls/brod/bwckschd\.p_disp_detail_sched.*- (.*?)</a></th>"
 		raw_section_ids = re.findall(section_regex,section_html)
 		for section_id in raw_section_ids:
 			print section_id
