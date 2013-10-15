@@ -21,31 +21,36 @@ for course in courses:
 
 	sections = []
 	# Splits code into a block of HTML per section
-	section_list = sourcedata.split("<th CLASS=\"ddtitle\" scope=\"colgroup\" >")
+	section_list = sourcedata.split("<th CLASS=\"ddtitle\" scope=\"colgroup\" >")[1:]
+
 	for section_html in section_list:
 		# Used to get the section ID
-		section_regex = "<a href=\"/pls/brod/bwckschd\.p_disp_detail_sched.*- (.*?)</a></th>"
+		section_regex = "<a href=\"\/pls\/bprod\/bwckschd.p_disp_detail_sched.*\">.* - (.*?)<\/a>"
 		raw_section_ids = re.findall(section_regex,section_html)
 		for section_id in raw_section_ids:
-			print section_id
 			# Gets meeting start time, end time, day, room
-			class_regex = "<td CLASS=\"dddefault\">Class</td>\n<td CLASS=\"dddefault\">(.*?) - (.*?)</td>\n<td CLASS=\"dddefault\">(.*?)</td>\n<td CLASS=\"dddefault\">(.*?)</td>"
+			class_regex = ("<td CLASS=\"dddefault\">Class</td>\n<td CLASS="
+				"\"dddefault\">(.*?) - (.*?)</td>\n<td CLASS=\"dddefault\">"
+				"(.*?)</td>\n<td CLASS=\"dddefault\">(.*?)</td>")
 			raw_meetings = re.findall(class_regex, section_html)
 			if raw_meetings:
-				meetings = [ { "start_time": raw_meeting[0], "end_time": raw_meeting[1], "days": list(raw_meeting[2]), "location": raw_meeting[3] } for raw_meeting in raw_meetings ]
+				meetings = [ { "start_time": raw_meeting[0], 
+					"end_time": raw_meeting[1], "days": list(raw_meeting[2]),
+					"location": raw_meeting[3] } for raw_meeting in raw_meetings]
 				section = {"college": course["college"], "id": section_id,"course_id": course["id"], "meetings": meetings}
+				# print section_id
 				sections.append(section)
 
 	# Currently treating sections as independent and not grouping by course
 	all_sections = all_sections + sections
 
 # Yay printing
-for section in all_sections:
-	print section["college"], " ", section["course_id"], section["id"]
-	print "---"
-	for meeting in section["meetings"]:
-		print meeting["days"], meeting["start_time"] + " - " + meeting["end_time"]
-	print ""
+# for section in all_sections:
+# 	print section["college"], " ", section["course_id"], section["id"]
+# 	print "---"
+# 	for meeting in section["meetings"]:
+# 		print meeting["days"], meeting["start_time"] + " - " + meeting["end_time"]
+# 	print ""
 
 # Putting sections in json
 sections_json = json.dumps(all_sections)
