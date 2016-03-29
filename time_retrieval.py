@@ -13,33 +13,36 @@ all_sections = []
 for course in courses:
 	print "Loading sections for course: " + course["school"] + " " + course["id"]
 
-	#Retrieve source code
-	url = "https://oscar.gatech.edu/pls/bprod/bwckctlg.p_disp_listcrse?term_in=201402&subj_in=" + course["school"] + "&crse_in=" + course["id"] + "&schd_in=%"
-	urlsoc = urllib2.urlopen(url)
-	sourcedata = urlsoc.read()
-	urlsoc.close()
+	try:	
+		#Retrieve source code
+		url = "https://oscar.gatech.edu/pls/bprod/bwckctlg.p_disp_listcrse?term_in=201608&subj_in=" + course["school"] + "&crse_in=" + course["id"] + "&schd_in=%"
+		urlsoc = urllib2.urlopen(url)
+		sourcedata = urlsoc.read()
+		urlsoc.close()
 
-	sections = []
-	# Splits code into a block of HTML per section
-	section_list = sourcedata.split("<th CLASS=\"ddtitle\" scope=\"colgroup\" >")[1:]
+		sections = []
+		# Splits code into a block of HTML per section
+		section_list = sourcedata.split("<th CLASS=\"ddtitle\" scope=\"colgroup\" >")[1:]
 
-	for section_html in section_list:
-		# Used to get the section ID
-		section_regex = "<a href=\"\/pls\/bprod\/bwckschd.p_disp_detail_sched.*\">.* - (.*?)<\/a>"
-		raw_section_ids = re.findall(section_regex,section_html)
-		for section_id in raw_section_ids:
-			# Gets meeting start time, end time, day, room
-			class_regex = ("<td CLASS=\"dddefault\">Class</td>\n<td CLASS="
-				"\"dddefault\">(.*?) - (.*?)</td>\n<td CLASS=\"dddefault\">"
-				"(.*?)</td>\n<td CLASS=\"dddefault\">(.*?)</td>")
-			raw_meetings = re.findall(class_regex, section_html)
-			if raw_meetings:
-				meetings = [ { "start_time": raw_meeting[0], 
-					"end_time": raw_meeting[1], "days": list(raw_meeting[2]),
-					"location": raw_meeting[3] } for raw_meeting in raw_meetings]
-				section = {"school": course["school"], "id": section_id,"course_id": course["id"], "meetings": meetings}
-				print section_id
-				sections.append(section)
+		for section_html in section_list:
+			# Used to get the section ID
+			section_regex = "<a href=\"\/pls\/bprod\/bwckschd.p_disp_detail_sched.*\">.* - (.*?) - .* - (.*?)<\/a>"
+			raw_section_ids = re.findall(section_regex,section_html)
+			for crn, section_id in raw_section_ids:
+				# Gets meeting start time, end time, day, room
+				class_regex = ("<td CLASS=\"dddefault\">Class</td>\n<td CLASS="
+					"\"dddefault\">(.*?) - (.*?)</td>\n<td CLASS=\"dddefault\">"
+					"(.*?)</td>\n<td CLASS=\"dddefault\">(.*?)</td>")
+				raw_meetings = re.findall(class_regex, section_html)
+				if raw_meetings:
+					meetings = [ { "start_time": raw_meeting[0], 
+						"end_time": raw_meeting[1], "days": list(raw_meeting[2]),
+						"location": raw_meeting[3] } for raw_meeting in raw_meetings]
+					section = {"school": course["school"], "id": section_id, "crn": crn, "course_id": course["id"], "meetings": meetings}
+					print section_id, crn
+					sections.append(section)
+	except:
+		print sys.exec_info()[0]
 
 	# Currently treating sections as independent and not grouping by course
 	all_sections = all_sections + sections

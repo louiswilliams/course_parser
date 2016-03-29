@@ -10,7 +10,7 @@ courses = []
 url = "https://oscar.gatech.edu/pls/bprod/bwckctlg.p_display_courses"
 for school in schools:
 	# Some hacking to figure this out
-	data = "term_in=201402&call_proc_in=bwckctlg.p_disp_dyn_ctlg&sel_subj=dummy&sel_levl=dummy&sel_schd=dummy&sel_coll=dummy&sel_divs=dummy&sel_dept=dummy&sel_attr=dummy&sel_subj=" + school["name"] + "&sel_crse_strt=&sel_crse_end=&sel_title="
+	data = "term_in=201608&call_proc_in=bwckctlg.p_disp_dyn_ctlg&sel_subj=dummy&sel_levl=dummy&sel_schd=dummy&sel_coll=dummy&sel_divs=dummy&sel_dept=dummy&sel_attr=dummy&sel_subj=" + school["name"] + "&sel_crse_strt=&sel_crse_end=&sel_title="
 	urlsoc = urllib2.urlopen(url,data)
 	raw_html = urlsoc.read()
 	urlsoc.close()
